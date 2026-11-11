@@ -1,0 +1,33 @@
+# 操作系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器 / IDE
+.idea/
+.vscode/
+*.swp
+
+# 环境变量与密钥（切勿提交）
+.env
+.env.*
+*.pem
+*.key
+
+# 日志与临时文件
+*.log
+logs/
+tmp/
+*.tmp
+
+# 依赖与构建产物（按实际技术栈启用）
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.venv/
+venv/
+target/
+bin/
+obj/
